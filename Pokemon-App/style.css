@@ -3,7 +3,7 @@
 body {
     margin: 0;
     font-family: Satisfy, cursive;
-    background-color: #74a77a; /* Dark background color */
+    background-image: linear-gradient(135deg, #4b6cb7 0%, #182848 100%); /* Linear gradient background image */
     color: #fff; /* Text color */
 }
 
@@ -63,7 +63,6 @@ code {
     justify-content: center;
     min-height: 100vh;
     padding: 3rem 1rem;
-    background-color: #74a77a; /* Dark background color */
 }
 
 .container h1 {
@@ -161,7 +160,6 @@ h3 {
     padding: .5rem 1.5rem;
     min-width: 20%;
     margin-top: 1rem;
-    font-family: Satisfy, cursive;
     cursor: pointer;
 }
 
@@ -183,6 +181,7 @@ button:hover {
 h3 {
     text-decoration: underline;
 }
+
 
 
 
