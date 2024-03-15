@@ -3,7 +3,7 @@
 body {
     margin: 0;
     font-family: Satisfy, cursive;
-    background-color: #f4f1de; /* Change background color */
+    background-color: #ff69b4; /* Change background color to a vibrant pink */
 }
 
 code {
@@ -62,7 +62,7 @@ code {
     justify-content: center;
     min-height: 100vh;
     padding: 3rem 1rem;
-    background-color: #f4f1de; /* Change background color */
+    background-color: #ff69b4; /* Change background color to a vibrant pink */
 }
 
 .container h1 {
@@ -176,11 +176,6 @@ button:hover {
 }
 
 .pokeinfo:hover {
-    background-image: linear-gradient(-20deg, #ddd6f3, #faaca8 100%, #faaca8);
-}
-
-h3 {
-    text-decoration: underline;
-}
+    background-image:
 
 
