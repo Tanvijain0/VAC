@@ -3,7 +3,7 @@
 body {
     margin: 0;
     font-family: Satisfy, cursive;
-    background-image: linear-gradient(135deg, #4b6cb7 0%, #182848 100%); /* Linear gradient background image */
+    background-image: linear-gradient(to right, #ffcc00, #ff6666, #6699ff, #ff3399, #66cc66); /* Linear gradient background image */
     color: #fff; /* Text color */
 }
 
